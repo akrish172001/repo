@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, this is my first Git commit!
 This is a change in the main branch.
+=======
+This is a change in the feature-branch.
+>>>>>>> feature-branch
